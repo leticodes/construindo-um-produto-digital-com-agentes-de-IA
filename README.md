@@ -912,4 +912,4 @@ Sem limitar a marca apenas à criação de imagens.
 ## 👩‍💻 Autoria
 
 
-Desenvolvido por **[Letícia Sousa]** como entrega do Desafio de Código da [Digital Innovation One (DIO)](https://web.dio.me/).
+Desenvolvido por **Letícia Sousa** como entrega do Desafio de Código da [Digital Innovation One (DIO)](https://web.dio.me/).
